@@ -4,7 +4,7 @@ The definition and implementation of data and service contracts is the same as W
 
 ## *New* - Using the the project templates
 
-With the 1.1 release of CoreWCF we now have project templates that include almost all of the concepts below already done for you.
+With the 1.1 release of CoreWCF we now have project templates that includes almost all of the concepts below already done for you.
 
 Install the templates with the following command line:
 
